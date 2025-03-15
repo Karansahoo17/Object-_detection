@@ -41,13 +41,14 @@ This will launch a web interface where you can upload images and videos for real
 
 ## 🖥️ Screenshots
 ### 🔹 Streamlit App Interface:
-![Streamlit App](screenshots/.png)
+![Streamlit App](screenshots/Screenshot1.png)
 
 ### 🔹 Object Detection on Image:
-![Object Detection Image](screenshots/detection_image.png)
+![Object Detection Image](screenshots/Screenshot2.png)
+![Object Detection Image](screenshots/Screenshot3.png)
 
 ### 🔹 Object Detection on Video:
-![Object Detection Video](screenshots/detection_video.png)
+![Object Detection Video](screenshots/Screenshot4.png)
 
 ## 📊 Dataset Configuration
 The dataset details are specified in `data.yaml`. This file includes:
